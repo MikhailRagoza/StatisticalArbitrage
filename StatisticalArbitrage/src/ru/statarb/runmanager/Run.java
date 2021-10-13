@@ -6,7 +6,7 @@ import ru.statarb.service.Message;
 
 public class Run {
 	protected static boolean isRun = true;
-	
+	 
 	public static void main(String args[]) {
 		Instrument firstInstr = new Instrument("MTLRP");// add seccode
 		Instrument secondInstr = new Instrument("MTLR");// add seccode
