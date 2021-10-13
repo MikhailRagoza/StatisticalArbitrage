@@ -5,7 +5,7 @@ import ru.statarb.serverside.Connection;
 import ru.statarb.service.Message;
 
 public class Run {
-	protected static boolean isRun = true;
+	protected static boolean isRun = true; // IsRun
 	
 	public static void main(String args[]) {
 		Instrument firstInstr = new Instrument("MTLRP");// add seccode
