@@ -1,4 +1,4 @@
-package ru.ragoza.statistics;
+package ru.statarb.statistics;
 
 import ru.ragoza.instruments.Instrument;
 

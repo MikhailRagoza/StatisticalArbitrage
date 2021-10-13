@@ -1,4 +1,4 @@
-package ru.ragoza.statistics;
+package ru.statarb.statistics;
 
 public class WrongValueException extends Exception {
 	

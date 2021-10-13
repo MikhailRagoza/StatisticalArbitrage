@@ -1,14 +1,14 @@
 package ru.ragoza.service;
 
 import ru.ragoza.instruments.Instrument;
-import ru.ragoza.statistics.EasyMath;
+import ru.statarb.statistics.EasyMath;
 
 public class Message {
 	private String type; // received or to send !remake to enum
 	private String content;
 	//received
 	private double MsgOffer;
-	private String MsgSecCode;
+	private String MsgSecCode; 
 	private boolean onclose = false;
 	
 	public Message(String type, String content) {
