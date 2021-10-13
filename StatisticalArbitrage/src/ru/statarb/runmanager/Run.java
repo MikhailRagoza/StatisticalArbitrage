@@ -7,20 +7,6 @@ import ru.statarb.service.Message;
 public class Run {
 	protected static boolean isRun = true;
 	
-	/*public static void main(String args[]) {
-		Connection newCon = new Connection(8000);
-		while (!newCon.getClientSocket().isClosed()) {
-			String mes;
-			while ((mes = newCon.getMessage()) != null) {
-				System.out.println(mes);
-			}
-			newCon.closeConnection();
-		}
-		
-	}
-	*/
-	
-	
 	public static void main(String args[]) {
 		Instrument firstInstr = new Instrument("MTLRP");// add seccode
 		Instrument secondInstr = new Instrument("MTLR");// add seccode
