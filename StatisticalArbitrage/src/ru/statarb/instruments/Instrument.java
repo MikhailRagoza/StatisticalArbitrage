@@ -1,6 +1,6 @@
-package ru.ragoza.instruments;
+package ru.statarb.instruments;
 
-import ru.ragoza.service.Message;
+import ru.statarb.service.Message;
 
 public class Instrument {
 	private double offer;

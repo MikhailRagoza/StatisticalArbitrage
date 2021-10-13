@@ -1,6 +1,6 @@
 package ru.statarb.statistics;
 
-import ru.ragoza.instruments.Instrument;
+import ru.statarb.instruments.Instrument;
 
 public class EasyMath {
 

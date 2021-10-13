@@ -1,4 +1,4 @@
-package ru.ragoza.service;
+package ru.statarb.service;
 
 public class MessageProcessing {
 

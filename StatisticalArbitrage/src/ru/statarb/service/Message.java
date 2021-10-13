@@ -1,6 +1,6 @@
-package ru.ragoza.service;
+package ru.statarb.service;
 
-import ru.ragoza.instruments.Instrument;
+import ru.statarb.instruments.Instrument;
 import ru.statarb.statistics.EasyMath;
 
 public class Message {

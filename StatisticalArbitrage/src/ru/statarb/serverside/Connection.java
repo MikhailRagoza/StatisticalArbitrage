@@ -1,4 +1,4 @@
-package ru.ragoza.serverside;
+package ru.statarb.serverside;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.nio.CharBuffer;
 
-import ru.ragoza.service.Message;
+import ru.statarb.service.Message;
 
 public class Connection {
 	private final String host = "127.0.0.1";

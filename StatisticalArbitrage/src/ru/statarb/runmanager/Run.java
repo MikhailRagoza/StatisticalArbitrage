@@ -1,8 +1,8 @@
-package ru.ragoza.runmanager;
+package ru.statarb.runmanager;
 
-import ru.ragoza.instruments.Instrument;
-import ru.ragoza.serverside.Connection;
-import ru.ragoza.service.Message;
+import ru.statarb.instruments.Instrument;
+import ru.statarb.serverside.Connection;
+import ru.statarb.service.Message;
 
 public class Run {
 	protected static boolean isRun = true;
